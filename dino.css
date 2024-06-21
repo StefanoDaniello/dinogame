@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board{
+    display: none;
+    background-color: lightgray;
+    border-bottom: 1px solid black;
+}
+#restart{
+    display: none;
+}
+.d-none {
+    display: none;
+}
